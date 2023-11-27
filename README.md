@@ -3,6 +3,7 @@ The tasks given under PwC Power-BI Virtual Experience Program in Forage are-
 
 ## Task 1: Call Centre Trends
 **Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.**
+
 This task requires you to create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call centre trends. Possible KPIs include:
 
 •	Overall customer satisfaction: This KPI measures the satisfaction level of customers who contacted the call centre for support. 
@@ -17,6 +18,7 @@ This task requires you to create a dashboard in Power BI that displays all the r
 
 ## Task 2: Customer Retention
 Define proper KPIs:
+
 This task requires you to define the appropriate KPIs for the retention manager based on the dataset. Create a dashboard for the retention manager reflecting the KPIs:
 
 •	This task requires you to create a dashboard that displays the defined KPIs for the retention manager to track the customer retention rate. Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed:
@@ -25,6 +27,7 @@ This task requires you to define the appropriate KPIs for the retention manager 
 
 ## Task 3: Diversity & Inclusion
 **Gender balance in the executive suite:**
+
 This task requires you to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset. Calculating the following measures could help to define proper KPIs:
 
 •	No. of men: This KPI measures the number of male employees in the executive suite.
